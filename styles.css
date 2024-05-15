@@ -1,2 +1,23 @@
+#name, #phone, #address{
+    width: 100%
+}
+
+label{
+	display: block;
+	margin-bottom: 5px;
+}
+#submit{
+	background-color: #ADD8E6;
+	border: None;
+	padding: 5px;
+	width: 100px;
+	height: 30px;
+	border-radius: 5px;
+}
+
+#submit:hover{
+	background-color:#ff0000;
+	color: #ffffff;
+}
 
 /* Your CSS Code here. */
